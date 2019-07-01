@@ -1,1 +1,1 @@
-var index = require("./index.js")
+var index = require("/other_file.js")
