@@ -1,1 +1,3 @@
-var index = require("/other_file.js")
+var index = require("./index.js")
+
+console.log(index.name)
